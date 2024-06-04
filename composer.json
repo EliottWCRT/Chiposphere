@@ -1,0 +1,15 @@
+{
+    "name": "wicarteliott/chirposphere",
+    "autoload": {
+        "psr-4": {
+            "Wicarteliott\\Chirposphere\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EliottWCRT",
+            "email": "eliott.creative@gmail.com"
+        }
+    ],
+    "require": {}
+}
